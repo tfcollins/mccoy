@@ -1,0 +1,12 @@
+{
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Travis F. Collins",
+  "development_status": "Development Status :: 1 - Planning",
+  "email": "travis.collins@analog.com",
+  "friendly_name": "mccoy",
+  "github_user": "tfcollins",
+  "license": "MIT",
+  "package_name": "mccoy",
+  "project_name": "mccoy",
+  "version": "0.0.1"
+}
